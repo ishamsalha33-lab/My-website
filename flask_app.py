@@ -30,7 +30,7 @@ def presentation():
     return "Je m'appelle Isham et je suis étudiant en informatique."
 
 @app.get("/loisir")
-def presentation():
+def loisir():
     return "Je m'appelle Isham et j'aime le sport, la musique blablabla etc..."
 
 # ---------------------------------------------------------------
